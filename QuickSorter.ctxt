@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=QuickSorter
+comment1.params=list\ pivotStrategy
+comment1.target=java.time.Duration\ timedQuickSort(java.util.ArrayList,\ QuickSorter.PivotStrategy)
+comment1.text=\r\n\ Performs\ a\ Timed\ Quick\ Sort\ on\ the\ given\ ArrayList\ and\ with\ a\ given\ Pivot\ Strategy.\r\n
+comment2.params=size
+comment2.target=java.util.ArrayList\ generateRandomList(int)
+comment2.text=\r\n\ Generates\ a\ random\ ArrayList\ of\ Integers.\r\n
+comment3.params=first\ second\ third
+comment3.target=java.lang.Comparable\ getMedianOfThree(java.lang.Comparable,\ java.lang.Comparable,\ java.lang.Comparable)
+numComments=4

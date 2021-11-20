@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Command\ Line\ Arguments\:\r\n\ 1.\ Array\ Size\r\n\ 2.\ Output\ File\ Name\ (Report)\r\n\ 3.\ Output\ File\ Name\ (Unsorted\ Array\ Storage)\r\n\ 4.\ Output\ File\ Name\ (Sorted\ Array\ Storage)\r\n
+comment2.params=list
+comment2.target=void\ swapTenPercent(java.util.ArrayList)
+comment2.text=\r\n\ Randomly\ swaps\ 10%\ of\ the\ passed-in\ list's\ elements.\r\n\ Used\ to\ generate\ an\ almost-sorted\ list,\ as\ specified\ by\ the\ Project\ 3\ instructions,\ for\ the\ README\ file.\r\n
+numComments=3
